@@ -21,7 +21,7 @@ form {
 }
 
 form h1 {
-  color: rgba(152, 192, 177, 0.65);
+  color: rgba(153, 209, 212, 0.242);
   text-shadow: 0px 2px;
   font-weight: 800;
   letter-spacing: 7px;
@@ -38,7 +38,7 @@ form h1 {
    margin-left: 10%;
   font-weight: 500;
   font-style: oblique;
-  color: rgba(115, 147, 138, 0.95);
+  color: rgba(136, 174, 164, 0.95);
   
 }
 
@@ -70,8 +70,8 @@ form button {
   border: 1px solid #393432;
   height: 45px;
   width: 25%;
-  color: rgb(12, 38, 61);
-  background-color: rgba(211, 218, 225, 0.86);
+  color: rgb(178, 200, 223);
+  background-color: rgba(74, 88, 93, 0.86);
   border-radius: 10px;
 }
 
