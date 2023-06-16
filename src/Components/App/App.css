@@ -7,6 +7,6 @@
     padding: 0;
 }
 body {
-    background-image:linear-gradient(90deg,rgb(52, 97, 125),rgb(118, 158, 177),rgb(52, 97, 125));
+    background-image:linear-gradient(90deg,rgb(12, 34, 44),rgb(6, 47, 72));
     overflow: hidden;
 }
